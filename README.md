@@ -1,0 +1,2 @@
+# gorand
+Go Random
